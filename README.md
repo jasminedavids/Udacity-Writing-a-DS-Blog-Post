@@ -11,3 +11,7 @@ Contains a jupyter notebook that answers the following questions:
 - Python 3.8.3
 - Python Packages (i.e. numpy,pandas,seaborn,matplotlib, etc.)
 - Jupyter notebook
+
+## Data
+The data was sourced from the Organisation for Economic Co-operation and Development (OECD) website:
+https://data.oecd.org/agroutput/meat-consumption.htm
